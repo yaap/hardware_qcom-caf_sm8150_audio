@@ -41,7 +41,6 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include "omx_aac_aenc.h"
 #include <errno.h>
 
-using namespace std;
 
 #define SLEEP_MS 100
 
